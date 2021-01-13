@@ -1,0 +1,13 @@
+.penguin-nav-link {
+    color: #3B3B3B;
+    font-weight: 600;
+}
+.header-custom {
+    background-color: #FFFBF0;
+}
+.custom-button {
+    background: linear-gradient(#89A51F, #A0B840);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 500;
+}
