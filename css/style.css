@@ -5,9 +5,64 @@
 .header-custom {
     background-color: #FFFBF0;
 }
+.header-style {
+    word-spacing: -3px;
+    line-height: 1.2em;
+}
+.penguin {
+    color: #FABE4C;
+    font-size: 1.2em;
+    font-weight: 650;
+}
+.winter {
+    color: #363958;
+    font-size: 1.2em;
+    font-weight: 650;
+}
+.header-p {
+    color: #494948;
+    font-weight: 500;
+}
+.jack-header {
+    color: #363958;
+    word-spacing: -5px;
+}
 .custom-button {
     background: linear-gradient(#89A51F, #A0B840);
     padding: 10px 20px;
     border-radius: 10px;
     font-weight: 500;
+    color: white;
+}
+.cart-footer {
+    border: 0;
+    background-color: #FFFF;
+}
+.price {
+    color: #FABE4C;
+    font-weight: 700;
+}
+.custom-card {
+    border-radius: 20px;
+}
+.custom-jack-head {
+    color: #414361;
+    font-weight: 700;
+}
+.custom-img {
+    background-color: #F1F1F1;
+}
+.custom-support {
+    border-radius: 20px;
+}
+.footer-custom {
+    background-color: #F1F1F1;
+    border-radius: 10px;
+}
+.submit-btn {
+    background: linear-gradient(#89A51F, #A0B840);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 500;
+    color: white;
 }
